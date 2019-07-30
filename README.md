@@ -15,8 +15,8 @@ This project analyzed a large dataset of shoe sales in order to find out whether
 We found that the trend forecasting was an accurate predictor of sales for both 2018 and 2019.<br>
 
 ### Limitations
-∙ Dataset had missing information. <br>
-∙ Dataset reflected mass market/budget brands only.<br>
+∙ Dataset had missing and duplicated information. <br>
+∙ Dataset reflected shoe sales in mass market/budget brands only.<br>
 
 ### Further Research
 ∙ Would men's sales match up with the forecasted trends?<br>

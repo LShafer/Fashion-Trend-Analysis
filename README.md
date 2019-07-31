@@ -5,8 +5,8 @@ This project analyzed a large dataset of shoe sales in order to find out whether
 
 ### Background
 
-∙ Color forecasting is the practice of predicting colors for consumer consumption two years in advance. <br>
-∙ Color forecasting also communicates a mood or feeling that will be relevant to the predicted point in time.<br>
+∙ Trend forecasting is the practice of predicting trends for consumer consumption two years in advance. <br>
+∙ Trend forecasting also communicates a mood or feeling that will be relevant to the predicted point in time.<br>
 ∙ This forecast influences product development for merchants, allowing relevant product demand for consumers.<br>
 ∙ The datasets were collected from kaggle.com and the forecasting data was collected from wgsn.com
 
